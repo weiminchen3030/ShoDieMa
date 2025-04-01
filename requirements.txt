@@ -3,3 +3,9 @@ pandas
 numpy
 matplotlib
 yfinance
+matplotlib.pyplot
+matplotlib.dates
+mplfinance.original_flavor
+matplotlib.ticker
+streamlit
+datetime
